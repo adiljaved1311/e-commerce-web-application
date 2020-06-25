@@ -8,8 +8,10 @@ This is a e-commerce web application developed in Java. The application is devel
 2. Servlet
 3. JSP
 4. Apache Tomcat
-5. Html
-6. CSS
+5. JavaScript
+6. Html
+7. CSS
+8. MySQL
 
 ### How to run application ?
 #### Setup MySQL database
